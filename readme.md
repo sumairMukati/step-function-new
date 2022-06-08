@@ -1,5 +1,4 @@
-# steps-function
-# typescript
+# steps-function ( typescript )
 
 # commands
 npm i
